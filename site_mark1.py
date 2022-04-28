@@ -3,12 +3,12 @@ import time
 try:
     data_base
 except NameError:
-    data_base = dict() #НЕ ЧІПАЙ ВОНО ТЕБЕ УБЄ !!!!!!
+    data_base = dict()
 
 try:
     info_base
 except NameError:
-    info_base = dict() #НЕ ЧІПАЙ ВОНО ТЕБЕ УБЄ !!!!!!    
+    info_base = dict()  
 
 
 #REgistration
